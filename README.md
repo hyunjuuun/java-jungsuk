@@ -1,1 +1,1 @@
-# java-jungsuk
+# study java by myself
